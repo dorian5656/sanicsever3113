@@ -1,0 +1,38 @@
+文件夹 PATH 列表
+卷序列号为 BA2C-85A8
+D:.
+│  tree.txt
+│  
+├─.idea
+│      workspace.xml
+│      
+└─python3-tools
+    │  .gitignore
+    │  LICENSE
+    │  README.en.md
+    │  README.md
+    │  
+    ├─FileTools
+    │  │  TxtTools.py
+    │  │  YmlTools.py
+    │  │  __init__.py
+    │  │  
+    │  └─__pycache__
+    │          YmlTools.cpython-39.pyc
+    │          __init__.cpython-39.pyc
+    │          
+    ├─SecureTools
+    │      EncipherTools.py
+    │      __init__.py
+    │      
+    ├─ServeTools
+    │      LinuxTools.py
+    │      __init__.py
+    │      
+    └─TestFiles
+        ├─TxtFiles
+        │      demo_20230418.txt
+        │      
+        └─YmlFiles
+                demo_20230418.yml
+                

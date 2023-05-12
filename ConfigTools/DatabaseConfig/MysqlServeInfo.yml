@@ -1,0 +1,7 @@
+mysql:
+    host: 12.34.56.78
+    port: 1000
+    username: root
+    password: 123456
+    database: tool
+
